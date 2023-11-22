@@ -12704,3 +12704,52 @@ header.masthead .post-heading .meta a {
 .fa-twitter {
     margin-left: 5px;
 }
+#count{
+    display: none;;
+}
+
+.digit {
+    font-size: 40px;
+    color: #000000;
+
+}
+ 
+.txt {
+    font-size: 20px;
+    color: #000000;
+}
+
+#start {
+    background-color: #fff700;
+}
+ 
+#stop {
+    background-color: #0e85fc;
+}
+ 
+#reset {
+    background-color: #c91400;
+}
+
+.footer {
+
+    height:150px; // Replace with the height your footer should be
+    width: auto; // Don't change
+    background-color: black;
+    position: fixed;
+    bottom: 0pt;
+    right: 0pt;
+    left: 0pt;
+    text-align: center;
+    
+
+}   
+
+.footer_contents {
+
+    height:150px; // Replace with the height your footer should be
+    width: auto; // Visible width of footer
+    margin: 0px;
+    background: #0dd940;
+
+}
